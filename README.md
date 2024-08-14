@@ -9,5 +9,4 @@ Meu nome é Beatriz da Silva
 - Pertendo jogar no São paulo e no Bracelona
 - Troço para o São paulo futebol culbe fc.
 
-
 ![](https://media1.tenor.com/m/_iheVyzHcTgAAAAC/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc.gif)
