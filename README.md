@@ -2,7 +2,7 @@
 
 Meu nome é Beatriz da Silva
 
-- Estou estudando na Alura;
+- Estou estudando na [Alura](https://www.alura.co.br)
 - Estou me desenvolvendo na linguagem de JasaScript;
 - Utilizo esse espaço para minha organização e compratilhamento dos meus projetos desenvolvido;
 - Eu quero ser jogadora de futebol profissional;
